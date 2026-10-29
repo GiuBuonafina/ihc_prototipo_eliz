@@ -2,7 +2,7 @@
 
 Protótipo navegável da plataforma **Eliz**, desenvolvido para a disciplina de Interface Humano-Computador (POLI/UPE).
 
-**Acesse:** [inserir o link da Vercel]
+**Acesse:** [[Protótipo Eliz](https://ihcprototipoeliz.vercel.app/#/login)]
 
 ## Grupo
 
